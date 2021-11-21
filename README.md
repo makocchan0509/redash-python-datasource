@@ -1,0 +1,1 @@
+# Samle Redash python datasource.
